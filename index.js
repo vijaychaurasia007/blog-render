@@ -6,8 +6,8 @@ Object.defineProperty(exports, "__esModule", {
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
-var _componentsTestCompo = require("./components/TestCompo");
+var _srcComponentsEditor = require("./src/components/Editor");
 
-var _componentsTestCompo2 = _interopRequireDefault(_componentsTestCompo);
+var _srcComponentsEditor2 = _interopRequireDefault(_srcComponentsEditor);
 
-exports.TestCompo = _componentsTestCompo2["default"];
+exports.Editor = _srcComponentsEditor2["default"];

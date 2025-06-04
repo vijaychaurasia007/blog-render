@@ -5,7 +5,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 var nextConfig = {
     /* config options here */
-    reactStrictMode: true
+    reactStrictMode: true,
+    distDir: "dist"
 };
 exports["default"] = nextConfig;
 module.exports = exports["default"];
