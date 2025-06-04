@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@blocknote/core": "^0.32.0-hackdays.0",
     "@blocknote/mantine": "^0.32.0-hackdays.0",
     "@blocknote/react": "^0.32.0-hackdays.0",
