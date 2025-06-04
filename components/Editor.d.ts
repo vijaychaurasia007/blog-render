@@ -10,3 +10,4 @@ type Props = {
 };
 export default function Editor({ options }: Props): React.JSX.Element;
 export {};
+//# sourceMappingURL=Editor.d.ts.map

@@ -1,2 +1,3 @@
-import Editor from "./src/components/Editor";
+import Editor from "./components/Editor";
 export { Editor, };
+//# sourceMappingURL=index.d.ts.map

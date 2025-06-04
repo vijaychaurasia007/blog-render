@@ -10,3 +10,4 @@ export declare const HR: {
         readonly content: "none";
     }, any, import("@blocknote/core").InlineContentSchema, import("@blocknote/core").StyleSchema>;
 };
+//# sourceMappingURL=HorizontalRuleExtension.d.ts.map

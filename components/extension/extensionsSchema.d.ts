@@ -554,3 +554,4 @@ export declare const schema: BlockNoteSchema<import("@blocknote/core").BlockSche
         implementation: import("@blocknote/core").StyleImplementation;
     };
 }>>;
+//# sourceMappingURL=extensionsSchema.d.ts.map
